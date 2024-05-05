@@ -1,9 +1,13 @@
-# SDV_DwarvenExpansionVisitMountVapiusPatch
+# Dwarven Expansion / Visit Mount Vapius Patch
 A patch to integrate Dwarven Expansion with Visit Mount Vapius.
 
 Adds new Dwarven Jewelry Maker recipes for the new gems and minerals in Visit Mount Vapius.
 
-The new gems produce brooches from the machine:
+## New Machine Recipes/Interactions
+
+### Dwarven Jewelry Maker
+The new gems from VMV produce brooches from the Dwarven Jewelry Maker:
+
 - Demantoide Brooch
 - Carnelian Brooch
 - Turquoise Brooch
@@ -19,8 +23,17 @@ The new gems produce brooches from the machine:
 
 The value of the new brooches is based on the value of the input gem.  The quality is based on the quality of the input gem unless the input gem is Polished in the Gem Polisher from Visit Mount Vapius.
 
-Polished versions of each stone (vanilla and new) automatically produce an iridium quality version of the jewelry regardless of the input quality.
+Polished versions of each stone (vanilla and new) automatically produce an iridium quality version of the jewelry regardless of the input quality.  
+Due to the increased value of the Polished Gems, the calculated value of the Jewelry made from them is also subsequently higher.
 
-This patch renames the Dwarven Gem Polisher from my mod to the "Dwarven Gem Cutter" to hopefully avoid confusion with the "Gem Polisher" from Visit Mount Vapius.
+### Dwarven Gem Polisher
+The Dwarven Gem Polisher increases the star quality of new gems added by VMV as well as Polished Gem variants.
 
-Adds new custom textures when the mushroom box from Dwarven Expansion is growing mushrooms from Visit Mount Vapius.
+### Dwarven Pulverizer
+The Dwarven Pulverizer can pulverize gems from VMV into generic Gemstone Dust (it will be named for the input gem and matching in price, but the sprite and tags will be generic).
+
+### Improved Mushroom Box
+Adds new custom textures when the mushroom box from Dwarven Expansion is growing mushrooms from Visit Mount Vapius.  The mushrooms grow in the box without this patch, the patch simply makes specific textures when growing VMV mushrooms.
+
+Github Repository
+https://github.com/mytigio/SDV_DwarvenExpansionVisitMountVapiusPatch
