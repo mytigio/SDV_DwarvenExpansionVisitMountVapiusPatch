@@ -11,7 +11,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "assets/mushroom_box_recipes.json"
+            "FromFile": "assets/mushroom_box_updates.json"
         }
     ]
 }

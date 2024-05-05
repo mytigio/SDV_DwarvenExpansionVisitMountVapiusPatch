@@ -3,17 +3,6 @@
         {
             "Action": "EditData",
             "Target": "Data/Objects",
-            "TargetField": [
-                "Solariaze.Geology_Garnet",
-                "ContextTags"
-            ],
-            "Entries": {
-                "#-1": "mytigio.dwarven_expansion_gem_non_dustable"
-            }
-        },
-        {
-            "Action": "EditData",
-            "Target": "Data/Objects",
             "Entries": {
                 "{{ModId}}.Jewelry_B_Demantoide": {
                     "Name": "Demantoide Brooch",
