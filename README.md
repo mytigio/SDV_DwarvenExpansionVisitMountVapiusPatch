@@ -35,5 +35,11 @@ The Dwarven Pulverizer can pulverize gems from VMV into generic Gemstone Dust (i
 ### Improved Mushroom Box
 Adds new custom textures when the mushroom box from Dwarven Expansion is growing mushrooms from Visit Mount Vapius.  The mushrooms grow in the box without this patch, the patch simply makes specific textures when growing VMV mushrooms.
 
+## Translations
+The following contributers have included translation files for the mod.  If you're interested in providing a translations, please create a i18n file and create a pull request on github: https://github.com/mytigio/SDV_DwarvenExpansionVisitMountVapiusPatch
+
+- lcy1998666 - Chinese
+- Caranud - French
+
 Github Repository
 https://github.com/mytigio/SDV_DwarvenExpansionVisitMountVapiusPatch
