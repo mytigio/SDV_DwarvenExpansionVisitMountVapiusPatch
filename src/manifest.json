@@ -1,7 +1,7 @@
 ﻿{
 	"Name": "[CP] Dwarven Expansion - Visit Mount Vapius Patch",
 	"Author": "mytigio",
-	"Version": "1.0.2",
+	"Version": "1.0.3",
 	"Description": "Adds compatability for Dwarven Expansion jewelry making with Visit Mount Vapius minerals.",
 	"UniqueID": "mytigio.dwarven_expansion_visit_mount_vapius",
 	"MinimumApiVersion": "2.11.2",
