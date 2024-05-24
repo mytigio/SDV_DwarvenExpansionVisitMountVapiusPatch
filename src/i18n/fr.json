@@ -1,4 +1,5 @@
 {
+// Traduction par Caranud mais n’hésitez pas à l’améliorer ! 
     "Brooch.Demantoide.DisplayName": "Broche de démantoïde",
     "Brooch.Demantoide.Description": "Une grande broche avec une pierre sertie dans un filigrane en or.",
     "Brooch.Carnelian.DisplayName": "Broche de cornaline",
@@ -23,4 +24,5 @@
     "Brooch.Larimar.Description": "Une grande broche avec une pierre sertie dans un filigrane en or.",
     "Brooch.BlueAgathe.DisplayName": "Broche d’agathe bleue",
     "Brooch.BlueAgathe.Description": "Une grande broche avec une pierre sertie dans un filigrane en or."
-  }
+}
+
